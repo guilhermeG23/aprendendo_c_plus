@@ -1,0 +1,2 @@
+g++ arquivo.c -o saida
+g++ arquivo.cpp -o saida && ./saida && rm saida
